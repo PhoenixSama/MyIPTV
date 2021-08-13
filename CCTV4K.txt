@@ -1,0 +1,6 @@
+CCTV超高清4K 35M
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/1/index.m3u8?fmt=ts2hls
+CCTV超高清4K 1080P
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8
+CCTV超高清4K HDR
+暂无，静态IP已全部失效，现在需要代理才能看

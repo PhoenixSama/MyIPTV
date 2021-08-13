@@ -1,0 +1,24 @@
+港台電視31,http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
+港台電視32,http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
+港台電視33,http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
+翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
+J2台,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
+無綫新聞台,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
+明珠台,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
+無綫財經·資訊台,http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
+ViuTV Six,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
+ViuTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
+
+中视新闻HD,http://185.207.176.189:8080/channels/tw-101/playlist.m3u8
+中视HD,http://185.207.176.189:8080/channels/tw-100/playlist.m3u8
+中视经典HD,http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
+中视菁采HD,http://185.207.176.189:8080/channels/tw-103/playlist.m3u8
+民视HD,http://185.207.176.189:8080/channels/tw-300/playlist.m3u8
+民视第一台HD,http://185.207.176.189:8080/channels/tw-301/playlist.m3u8
+民视新闻台,http://185.207.176.189:8080/channels/tw-302/playlist.m3u8
+民视台湾台,http://185.207.176.189:8080/channels/tw-304/playlist.m3u8
+华视HD,http://185.207.176.189:8080/channels/tw-501/playlist.m3u8
+华视教育体育文化HD,http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
+华视新闻资讯HD,http://185.207.176.189:8080/channels/tw-503/playlist.m3u8
+国会频道1,http://185.207.176.189:8080/channels/tw-504/playlist.m3u8
+国会频道2,http://185.207.176.189:8080/channels/tw-505/playlist.m3u8
