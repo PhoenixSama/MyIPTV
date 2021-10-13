@@ -1,0 +1,71 @@
+湖南卫视,http://iptv.nyist.edu.cn/hls/hunanhd/index.m3u8
+浙江卫视,http://iptv.nyist.edu.cn/hls/zjhd/index.m3u8
+江苏卫视,http://iptv.nyist.edu.cn/hls/jshd/index.m3u8
+东方卫视,http://iptv.nyist.edu.cn/hls/dfhd/index.m3u8
+深圳卫视,http://iptv.nyist.edu.cn/hls/szhd/index.m3u8
+北京卫视,http://iptv.nyist.edu.cn/hls/btv1hd/index.m3u8
+山东卫视,http://iptv.nyist.edu.cn/hls/sdhd/index.m3u8
+安徽卫视,http://iptv.nyist.edu.cn/hls/ahhd/index.m3u8
+北京冬奥纪实,http://iptv.nyist.edu.cn/hls/btv11hd/index.m3u8
+金鹰纪实,http://iptv.nyist.edu.cn/hls/gedocu/index.m3u8
+金鹰卡通,http://iptv.nyist.edu.cn/hls/jykttv/index.m3u8
+优漫卡通,http://iptv.nyist.edu.cn/hls/ymkttv/index.m3u8
+新动漫,http://iptv.nyist.edu.cn/hls/xdmtv/index.m3u8
+广东卫视,http://iptv.nyist.edu.cn/hls/gdhd/index.m3u8
+东南卫视,http://iptv.nyist.edu.cn/hls/dnhd/index.m3u8
+黑龙江卫视,http://iptv.nyist.edu.cn/hls/hljhd/index.m3u8
+辽宁卫视,http://iptv.nyist.edu.cn/hls/lnhd/index.m3u8
+天津卫视,http://iptv.nyist.edu.cn/hls/tjhd/index.m3u8
+湖北卫视,http://iptv.nyist.edu.cn/hls/hbhd/index.m3u8
+重庆卫视,http://iptv.nyist.edu.cn/hls/cqhd/index.m3u8
+河北卫视,http://iptv.nyist.edu.cn/hls/hebhd/index.m3u8
+江西卫视,http://iptv.nyist.edu.cn/hls/jxhd/index.m3u8
+河南卫视,http://iptv.nyist.edu.cn/hls/hnhd/index.m3u8
+广西卫视,http://iptv.nyist.edu.cn/hls/gxhd/index.m3u8
+吉林卫视,http://iptv.nyist.edu.cn/hls/jlhd/index.m3u8
+四川卫视,http://iptv.nyist.edu.cn/hls/schd/index.m3u8
+海南卫视,http://iptv.nyist.edu.cn/hls/lyhd/index.m3u8
+贵州卫视,http://iptv.nyist.edu.cn/hls/gzhd/index.m3u8
+山西卫视,http://iptv.nyist.edu.cn/hls/sxrtv/index.m3u8
+山东教育卫视,http://iptv.nyist.edu.cn/hls/sdetv/index.m3u8
+CCTV-1 综合,http://iptv.nyist.edu.cn/hls/cctv1hd/index.m3u8
+CCTV-2 财经,http://iptv.nyist.edu.cn/hls/cctv2hd/index.m3u8
+CCTV-3 综艺,http://iptv.nyist.edu.cn/hls/cctv3hd/index.m3u8
+CCTV-4 中文国际,http://iptv.nyist.edu.cn/hls/cctv4hd/index.m3u8
+CCTV-5 体育,http://iptv.nyist.edu.cn/hls/cctv5hd/index.m3u8
+CCTV-5+ 体育赛事,http://iptv.nyist.edu.cn/hls/cctv5phd/index.m3u8
+CCTV-6 电影,http://iptv.nyist.edu.cn/hls/jlu_cctv6hd/index.m3u8
+CCTV-7 国防军事,http://iptv.nyist.edu.cn/hls/cctv7hd/index.m3u8
+CCTV-8 电视剧,http://iptv.nyist.edu.cn/hls/cctv8hd/index.m3u8
+CCTV-9 记录,http://iptv.nyist.edu.cn/hls/cctv9hd/index.m3u8
+CCTV-10 科教,http://iptv.nyist.edu.cn/hls/cctv10hd/index.m3u8
+CCTV-11 戏曲,http://iptv.nyist.edu.cn/hls/cctv11/index.m3u8
+CCTV-12 社会与法,http://iptv.nyist.edu.cn/hls/cctv12hd/index.m3u8
+CCTV-13 新闻,http://iptv.nyist.edu.cn/hls/cctv13hd/index.m3u8
+CCTV-14 少儿,http://iptv.nyist.edu.cn/hls/cctv14hd/index.m3u8
+CCTV-15 音乐,http://iptv.nyist.edu.cn/hls/cctv15/index.m3u8
+CCTV-17 农业农村,http://iptv.nyist.edu.cn/hls/cctv17hd/index.m3u8
+CGTN,http://iptv.nyist.edu.cn/hls/cctv16/index.m3u8
+CGTN纪录,http://iptv.nyist.edu.cn/hls/cgtndochd/index.m3u8
+CHC高清电影,http://iptv.nyist.edu.cn/hls/chchd/index.m3u8
+CHC家庭影院,http://iptv.nyist.edu.cn/hls/chctv/index.m3u8
+CHC动作电影,http://iptv.nyist.edu.cn/hls/chcatv/index.m3u8
+北京新闻,http://iptv.nyist.edu.cn/hls/btv9hd/index.m3u8
+北京影视,http://iptv.nyist.edu.cn/hls/btv4hd/index.m3u8
+北京文艺,http://iptv.nyist.edu.cn/hls/btv2hd/index.m3u8
+北京财经,http://iptv.nyist.edu.cn/hls/btv5hd/index.m3u8
+北京生活,http://iptv.nyist.edu.cn/hls/btv7hd/index.m3u8
+北京青年,http://iptv.nyist.edu.cn/hls/btv8hd/index.m3u8
+北京科教,http://iptv.nyist.edu.cn/hls/btv3hd/index.m3u8
+卡酷少儿,http://iptv.nyist.edu.cn/hls/btv10hd/index.m3u8
+纪实人文,http://iptv.nyist.edu.cn/hls/docuchina/index.m3u8
+金鹰纪实,http://iptv.nyist.edu.cn/hls/gedocu/index.m3u8
+足球频道,http://iptv.nyist.edu.cn/hls/zqhd/index.m3u8
+星空卫视,http://iptv.nyist.edu.cn/hls/startv/index.m3u8
+Channel[V],http://iptv.nyist.edu.cn/hls/channelv/index.m3u8
+国家地理,http://iptv.nyist.edu.cn/hls/natlgeo/index.m3u8
+探索频道,http://iptv.nyist.edu.cn/hls/discovery/index.m3u8
+Star Sports,http://iptv.nyist.edu.cn/hls/starsports/index.m3u8
+凤凰卫视中文台,http://iptv.nyist.edu.cn/hls/fhzw/index.m3u8
+凤凰卫视资讯台,http://iptv.nyist.edu.cn/hls/fhzw/index.m3u8
+凤凰卫视电影台,http://iptv.nyist.edu.cn/hls/fhdy/index.m3u8
