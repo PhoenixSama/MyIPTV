@@ -1,0 +1,72 @@
+湖南卫视,http://tv6.haue.edu.cn/tv/hls/hunanhd.m3u8
+浙江卫视,http://tv6.haue.edu.cn/tv/hls/zjhd.m3u8
+江苏卫视,http://tv6.haue.edu.cn/tv/hls/jshd.m3u8
+东方卫视,http://tv6.haue.edu.cn/tv/hls/dfhd.m3u8
+深圳卫视,http://tv6.haue.edu.cn/tv/hls/szhd.m3u8
+北京卫视,http://tv6.haue.edu.cn/tv/hls/btv1hd.m3u8
+山东卫视,http://tv6.haue.edu.cn/tv/hls/sdhd.m3u8
+安徽卫视,http://tv6.haue.edu.cn/tv/hls/ahhd.m3u8
+北京冬奥纪实,http://tv6.haue.edu.cn/tv/hls/btv11hd.m3u8
+金鹰纪实,http://tv6.haue.edu.cn/tv/hls/gedocu.m3u8
+金鹰卡通,http://tv6.haue.edu.cn/tv/hls/jykttv.m3u8
+优漫卡通,http://tv6.haue.edu.cn/tv/hls/ymkttv.m3u8
+新动漫,http://tv6.haue.edu.cn/tv/hls/xdmtv.m3u8
+广东卫视,http://tv6.haue.edu.cn/tv/hls/gdhd.m3u8
+东南卫视,http://tv6.haue.edu.cn/tv/hls/dnhd.m3u8
+黑龙江卫视,http://tv6.haue.edu.cn/tv/hls/hljhd.m3u8
+辽宁卫视,http://tv6.haue.edu.cn/tv/hls/lnhd.m3u8
+天津卫视,http://tv6.haue.edu.cn/tv/hls/tjhd.m3u8
+湖北卫视,http://tv6.haue.edu.cn/tv/hls/hbhd.m3u8
+重庆卫视,http://tv6.haue.edu.cn/tv/hls/cqhd.m3u8
+河北卫视,http://tv6.haue.edu.cn/tv/hls/hebhd.m3u8
+江西卫视,http://tv6.haue.edu.cn/tv/hls/jxhd.m3u8
+河南卫视,http://tv6.haue.edu.cn/tv/hls/hnhd.m3u8
+广西卫视,http://tv6.haue.edu.cn/tv/hls/gxhd.m3u8
+吉林卫视,http://tv6.haue.edu.cn/tv/hls/jlhd.m3u8
+四川卫视,http://tv6.haue.edu.cn/tv/hls/schd.m3u8
+海南卫视,http://tv6.haue.edu.cn/tv/hls/lyhd.m3u8
+贵州卫视,http://tv6.haue.edu.cn/tv/hls/gzhd.m3u8
+山西卫视,http://tv6.haue.edu.cn/tv/hls/sxrtv.m3u8
+山东教育卫视,http://tv6.haue.edu.cn/tv/hls/sdetv.m3u8
+CCTV-1 综合,http://tv6.haue.edu.cn/tv/hls/cctv1hd.m3u8
+CCTV-2 财经,http://tv6.haue.edu.cn/tv/hls/cctv2hd.m3u8
+CCTV-3 综艺,http://tv6.haue.edu.cn/tv/hls/cctv3hd.m3u8
+CCTV-4 中文国际,http://tv6.haue.edu.cn/tv/hls/cctv4hd.m3u8
+CCTV-5 体育,http://tv6.haue.edu.cn/tv/hls/cctv5hd.m3u8
+CCTV-5+ 体育赛事,http://tv6.haue.edu.cn/tv/hls/cctv5phd.m3u8
+CCTV-6 电影,http://tv6.haue.edu.cn/tv/hls/jlu_cctv6hd.m3u8
+CCTV-7 国防军事,http://tv6.haue.edu.cn/tv/hls/cctv7hd.m3u8
+CCTV-8 电视剧,http://tv6.haue.edu.cn/tv/hls/cctv8hd.m3u8
+CCTV-9 记录,http://tv6.haue.edu.cn/tv/hls/cctv9hd.m3u8
+CCTV-10 科教,http://tv6.haue.edu.cn/tv/hls/cctv10hd.m3u8
+CCTV-11 戏曲,http://tv6.haue.edu.cn/tv/hls/cctv11.m3u8
+CCTV-12 社会与法,http://tv6.haue.edu.cn/tv/hls/cctv12hd.m3u8
+CCTV-13 新闻,http://tv6.haue.edu.cn/tv/hls/cctv13hd.m3u8
+CCTV-14 少儿,http://tv6.haue.edu.cn/tv/hls/cctv14hd.m3u8
+CCTV-15 音乐,http://tv6.haue.edu.cn/tv/hls/cctv15.m3u8
+CCTV-17 农业农村,http://tv6.haue.edu.cn/tv/hls/cctv17hd.m3u8
+CGTN,http://tv6.haue.edu.cn/tv/hls/cctv16.m3u8
+CGTN纪录,http://tv6.haue.edu.cn/tv/hls/cgtndochd.m3u8
+CHC高清电影,http://tv6.haue.edu.cn/tv/hls/chchd.m3u8
+CHC家庭影院,http://tv6.haue.edu.cn/tv/hls/chctv.m3u8
+CHC动作电影,http://tv6.haue.edu.cn/tv/hls/chcatv.m3u8
+北京新闻,http://tv6.haue.edu.cn/tv/hls/btv9hd.m3u8
+北京影视,http://tv6.haue.edu.cn/tv/hls/btv4hd.m3u8
+北京文艺,http://tv6.haue.edu.cn/tv/hls/btv2hd.m3u8
+北京财经,http://tv6.haue.edu.cn/tv/hls/btv5hd.m3u8
+北京生活,http://tv6.haue.edu.cn/tv/hls/btv7hd.m3u8
+北京青年,http://tv6.haue.edu.cn/tv/hls/btv8hd.m3u8
+北京科教,http://tv6.haue.edu.cn/tv/hls/btv3hd.m3u8
+卡酷少儿,http://tv6.haue.edu.cn/tv/hls/btv10hd.m3u8
+纪实人文,http://tv6.haue.edu.cn/tv/hls/docuchina.m3u8
+金鹰纪实,http://tv6.haue.edu.cn/tv/hls/gedocu.m3u8
+足球频道,http://tv6.haue.edu.cn/tv/hls/zqhd.m3u8
+星空卫视,http://tv6.haue.edu.cn/tv/hls/startv.m3u8
+Channel[V],http://tv6.haue.edu.cn/tv/hls/channelv.m3u8
+国家地理,http://tv6.haue.edu.cn/tv/hls/natlgeo.m3u8
+探索频道,http://tv6.haue.edu.cn/tv/hls/discovery.m3u8
+Star Sports,http://tv6.haue.edu.cn/tv/hls/starsports.m3u8
+凤凰卫视中文台,http://tv6.haue.edu.cn/tv/hls/fhzw.m3u8
+凤凰卫视资讯台,http://tv6.haue.edu.cn/tv/hls/fhzw.m3u8
+凤凰卫视资讯台,http://tv6.haue.edu.cn/tv/hls/tv/hls255.m3u8
+凤凰卫视电影台,http://tv6.haue.edu.cn/tv/hls/fhdy.m3u8
