@@ -152,4 +152,4 @@ GTV网络棋牌,http://live.aishang.ctlcdn.com/00000110240319_1/encoder/0/playli
 0345  未知8,http://live.aishang.ctlcdn.com/00000110240345_1/encoder/0/playlist.m3u8?CONTENTID=00000110240345_1
 0346  未知9,http://live.aishang.ctlcdn.com/00000110240346_1/encoder/0/playlist.m3u8?CONTENTID=00000110240346_1
 0347  未知10,http://live.aishang.ctlcdn.com/00000110240347_1/encoder/0/playlist.m3u8?CONTENTID=00000110240347_1
-0348  未知11,http://live.aishang.ctlcdn.com/00000110240348_1/encoder/0/playlist.m3u8?CONTENTID=00000110240341_8
+0348  未知11,http://live.aishang.ctlcdn.com/00000110240348_1/encoder/0/playlist.m3u8?CONTENTID=00000110240348_8
